@@ -1,7 +1,7 @@
 # CaImAn Analysis
 
-in vivoカルシウムイメージングデータに対して、
-動き補正、細胞抽出（CaImAn）、時系列応答解析を行った解析例です。
+in vivoカルシウムイメージングデータに対して、CaImAnを用いて
+動き補正、細胞抽出、時系列応答解析を行った解析例です。
 
 内容：
 - Motion correction

@@ -12,7 +12,7 @@ in vivoカルシウムイメージングデータに対して、
 ## 解析結果例
 
 ### 1細胞における刺激応答の時系列解析例
-![trace](1細胞レベルでのtrace例.png)
+![trace](single_cell_trace例.png)
 
 ### 刺激応答の空間mapping（heatmap型）
 ![mapping](ROI_position_heatmap.png)

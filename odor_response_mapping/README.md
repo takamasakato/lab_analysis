@@ -1,7 +1,7 @@
-# CaImAn Analysis
+# Odor_response Analysis
 
 in vivoカルシウムイメージングデータに対して、
-時系列応答解析を行った解析例です。
+時系列応答解析及び刺激応答空間mappingを行った解析例です。
 
 内容：
 - ΔF/F算出

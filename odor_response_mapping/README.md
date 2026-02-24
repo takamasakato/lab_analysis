@@ -10,4 +10,8 @@ in vivoカルシウムイメージングデータに対して、
 - 応答細胞の空間mapping（heatmap）
 
 ## 解析結果例
-（ここにfig）
+### 刺激応答の空間mapping（heatmap型）
+![mapping](ROI_position_heatmap.png)
+
+### 刺激応答の空間mapping（閾値型）
+![mapping](ROI_position_閾値png.png)

@@ -22,8 +22,12 @@ CaImAnを用いたカルシウムイメージング解析例
 匂い刺激応答におけるプルキンエ細胞の時空間応答マッピング  
 （刺激依存的ROI応答の時系列解析＋空間heatmap）
 
+<p align="center">
+  <img src="odor_response_mapping/ROI_position_heatmap.png" width="600">
+</p>
+
 ・cluster_visualization  
-小脳プルキンエ細胞活動のクラスタリング解析例  
+Open CVを用いた、小脳プルキンエ細胞活動のクラスタリング解析例  
 （時空間解析とクラスター解析の統合）
 
 ## 使用技術

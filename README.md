@@ -19,7 +19,7 @@ CaImAnを用いたカルシウムイメージング解析例
 （動き補正、細胞抽出、ΔF/F算出、時系列信号解析）
 
 <p align="center">
-  <img src="caiman_analysis/caiman.png" width="600">
+  <img src="caiman_analysis/caiman.png" width="800">
 </p>
 
 ・odor_response_mapping  
@@ -35,7 +35,7 @@ Open CVを用いた、小脳プルキンエ細胞活動のクラスタリング�
 （時空間解析とクラスター解析の統合）
 
 <p align="center">
-  <img src="cerebellar_cell_analysis/cluster_fig.png" width="600">
+  <img src="cerebellar_cell_analysis/cluster_fig.png" width="800">
 </p>
 
 ## 使用技術

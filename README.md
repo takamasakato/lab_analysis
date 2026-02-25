@@ -13,6 +13,8 @@ in vivoカルシウムイメージングデータを対象とした、
 ・前処理〜抽出〜統計までの再現性を意識した解析設計  
 ・実験データ特性を踏まえた解析フローの統合実装  
 
+(各内容の詳細は、各フォルダのreadmeをご確認ください)
+
 ## 内容
 ・caiman_analysis  
 CaImAnを用いたカルシウムイメージング解析例  
@@ -38,6 +40,6 @@ Open CVを用いた、小脳プルキンエ細胞活動のクラスタリング�
   <img src="cerebellar_cell_analysis/cluster_fig.png" width="800">
 </p>
 
-## 使用技術
-Python / CaImAn / NumPy / pandas / matplotlib  
+## 主な使用技術
+Python / CaImAn / NumPy / pandas / matplotlib / OpenCV
 1細胞神経活動データに対する前処理〜抽出〜統計解析までの一連の解析フローを実装

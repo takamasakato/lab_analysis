@@ -1,6 +1,6 @@
 # lab_analysis
 
-in vivoカルシウムイメージングデータを対象とした、
+本レポジトリーは、in vivoカルシウムイメージングデータを対象とした、
 1細胞レベル神経活動解析の実装例をまとめたポートフォリオです。  
 （研究守秘義務に基づき、許可されたコードおよび再構成した解析例のみ公開）
 
@@ -24,12 +24,20 @@ CaImAnを用いたカルシウムイメージング解析例
   <img src="caiman_analysis/caiman.png" width="800">
 </p>
 
+<p align="center">
+  動き補正・自動細胞抽出・神経活動記録解析のpipeline構築に成功した
+</p>
+
 ### odor_response_mapping  
-匂い刺激応答におけるプルキンエ細胞の時空間応答マッピング  
+匂い刺激応答における小脳プルキンエ細胞の時空間応答マッピング  
 （刺激依存的ROI応答の時系列解析＋空間heatmap）
 
 <p align="center">
   <img src="odor_response_mapping/ROI_position_heatmap.png" width="600">
+</p>
+
+<p align="center">
+  匂い刺激に対する時空間応答マッピングを作成し、応答領域の同定に成功した
 </p>
 
 ### cluster_visualization  
@@ -38,6 +46,10 @@ Open CVを用いた、小脳プルキンエ細胞活動のクラスタリング�
 
 <p align="center">
   <img src="cluster_visualization/cluster_fig.png" width="800">
+</p>
+
+<p align="center">
+  Open CVを用いたクラスタリング解析に成功し、論文作成の一助を担った
 </p>
 
 ## 主な使用技術

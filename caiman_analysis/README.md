@@ -23,6 +23,9 @@ in vivoカルシウムイメージングデータを対象とした、
 ・1細胞レベルでの神経活動時系列の抽出  
 ・ROIごとの刺激応答の定量評価
 
+<p align="center">
+  <img src="caiman.png" width="600">
+</p>
 
 
 ---

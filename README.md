@@ -18,6 +18,10 @@ in vivoカルシウムイメージングデータを対象とした、
 CaImAnを用いたカルシウムイメージング解析例  
 （動き補正、細胞抽出、ΔF/F算出、時系列信号解析）
 
+<p align="center">
+  <img src="caiman_analysis/caiman.png" width="600">
+</p>
+
 ・odor_response_mapping  
 匂い刺激応答におけるプルキンエ細胞の時空間応答マッピング  
 （刺激依存的ROI応答の時系列解析＋空間heatmap）
@@ -29,6 +33,10 @@ CaImAnを用いたカルシウムイメージング解析例
 ・cluster_visualization  
 Open CVを用いた、小脳プルキンエ細胞活動のクラスタリング解析例  
 （時空間解析とクラスター解析の統合）
+
+<p align="center">
+  <img src="cerebellar_cell_analysis/cluster_fig.png" width="600">
+</p>
 
 ## 使用技術
 Python / CaImAn / NumPy / pandas / matplotlib  
